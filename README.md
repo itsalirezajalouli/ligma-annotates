@@ -54,11 +54,3 @@ This project is licensed under the GLWTS License - see the [LICENSE](LICENSE) fi
 
 For support or queries, please contact us at billypushr@gmail.com.
 
-./LIGMA_Annotates
-│
-├── main.py                 # Entry point
-├── gui.py                  # Main GUI setup and window management
-├── utils.py                # Utility functions (e.g., windowing gui handler)
-├── image_loader.py         # Functions for loading DICOM 
-├── annotation.py           # Annotation logic (e.g., mask creation, segmentation)
-└── save_manager.py         # Npy, NIfTI, CSV, Json mask saving
