@@ -1,0 +1,8 @@
+PyQt6
+numpy
+matplotlib
+opencv-python
+pydicom
+pandas
+scikit-image
+nibabel
