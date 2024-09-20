@@ -6,10 +6,10 @@ LIGMA (Layered Image Graphical Markup Assistant) is a powerful annotation softwa
 
 - Best windowing system for DICOM files you can find anywhere
 - Easy annotation of DICOM medical images
+- Support for multiple annotation types (e.g., bounding boxes, polygons, landmarks)
+- Export annotations in standard formats (Npy, Nii, Json(COCO), CSV)
 - Layered annotation system for complex markups (paint tool)
 - User-friendly interface for efficient workflow
-- Support for multiple annotation types (e.g., bounding boxes, polygons, landmarks)
-- Export annotations in standard formats
 
 ## Installation
 
