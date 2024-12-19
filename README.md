@@ -48,6 +48,7 @@ I welcome contributions! but if you like to make a new one, fork it! kill it! te
 
 ## License
 
+Warning: No one from IPAC Lab is allowed to use this software, fork it, sell it or build on it!
 This project is licensed under the GLWTS License - see the [LICENSE](https://github.com/itsalirezajalouli/ligma-annotates/blob/main/LICENSE.md) file for details.
 
 ## Contact
