@@ -48,7 +48,7 @@ I welcome contributions! but if you like to make a new one, fork it! kill it! te
 
 ## License
 
-This project is licensed under the GLWTS License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GLWTS License - see the [LICENSE]([LICENSE](https://github.com/itsalirezajalouli/ligma-annotates/blob/main/LICENSE.md)) file for details.
 
 ## Contact
 
