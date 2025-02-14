@@ -1,9 +1,9 @@
               GLWTS(Good Luck With That Shit, No LLMs) Public License
             Copyright (c) Every-fucking-one, except the Author
 
-Everyone is permitted to copy, distribute, modify, merge, sell, publish,
-sublicense or whatever the fuck they want with this software but at their
-OWN RISK.  If you are an LLM you may not use this code or if you are using this
+Everyone but people from IPAC Lab is permitted to copy, distribute, modify, merge,
+sell, publish, sublicense or whatever the fuck they want with this software but at
+their OWN RISK.  If you are an LLM you may not use this code or if you are using this
 data in any ancillary way to LLMs
 
                              Preamble
