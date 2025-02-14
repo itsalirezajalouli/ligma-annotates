@@ -53,5 +53,5 @@ This project is licensed under the GLWTS License - see the [LICENSE](https://git
 
 ## Contact
 
-For support or queries, please contact us at billypushr@gmail.com.
+For support or queries, please contact me at billypushr@gmail.com.
 
