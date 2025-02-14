@@ -2,6 +2,12 @@
 
 LIGMA (Layered Image Graphical Markup Assistant) is a powerful annotation software for DICOM medical files.
 
+# Images
+![Demo Image 1](./img1.png)
+![Demo Image 2](./img2.jpg)
+![Demo Image 3](./img3.jpg)
+![Demo Image 4](./img4.jpg)
+
 ## Features
 
 - Best windowing system for DICOM files you can find anywhere
